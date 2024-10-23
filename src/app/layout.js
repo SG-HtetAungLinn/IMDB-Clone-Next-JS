@@ -1,6 +1,6 @@
 import localFont from "next/font/local";
-import Header from "@/components/Header";
-import Navebar from "@/components/Navbar";
+import Header from "../components/Header";
+import Navebar from "../components/Navbar";
 import "./globals.css";
 import Providers from "./Providers";
 
